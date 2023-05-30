@@ -25,7 +25,7 @@ def main():
         contents = contents.decode("utf-8")
         print(f"[{address}] {contents}")
 
-    # We never get here but clean up anyhow
+    # Nunca chega aqui, mas seriam esses os comandos de fechar socket e terminar contexto
     subscriber.close()
     context.term()
 
