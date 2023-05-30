@@ -17,5 +17,5 @@ no curso de Ciência da Computação da Universidade Federal de Santa Catarina.
         py jornais.py JornalA "Jornal B" C
         py leitor.py "Jornal B" C
 
-        Dessa forma, este processo jornais.py adicionará as mensagens dos jornais A, B e C na fila. Ainda, o processo leitor.py
-        irá consumir as mensagens dos jornais B e C, apenas.
+        Dessa forma, este processo jornais.py adicionará as mensagens dos jornais A, B e C na fila. 
+        Ainda, o processo leitor.py irá consumir as mensagens dos jornais B e C, apenas.
